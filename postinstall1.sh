@@ -1,1 +1,0 @@
-/home/alz/Documents/GNU-Linux DEV/Linux Desktop Postinstall/postinstall-SantechN67-KDE4-LinuxMint12-Oneiric11.10-64bit.sh
