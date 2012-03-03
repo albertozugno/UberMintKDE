@@ -917,7 +917,7 @@ sudo restart cups
 # sudo cupsaddsmb -v -H $HOSTNAME -U "$USER"%"$pass" PDF 
 
 # Upgrading paths (with R2011b as your current Matlab version)
-#echo "PATH=\"\$HOME/Scripts:\$HOME/Scripts/Sikuli-IDE/:$HOME/Scripts/GitHub/:\$HOME/Documents/Android SDK/tools/:\$HOME/Documents/Android SDK/platform-tools/:/usr/local/MATLAB/R2011b/bin/:\$PATH\"" | tee -a ~/.bashrc > /dev/null
+#echo "PATH=\"\$HOME/Scripts:\$HOME/Scripts/Sikuli-IDE/:\$HOME/Documents/Site DESIGN/Drupal/Scripts/:\$HOME/Documents/GNU-Linux DEV/GitHub/Scripts/:\$HOME/Documents/Android SDK/tools/:\$HOME/Documents/Android SDK/platform-tools/:/usr/local/MATLAB/R2011b/bin/:\$PATH\"" | tee -a ~/.bashrc > /dev/null
 echo "PATH=\"\$HOME/.Scripts:\$PATH\"" | tee -a ~/.bashrc > /dev/null
 
 # Docky, http://do.davebsd.com/wiki/Docky
